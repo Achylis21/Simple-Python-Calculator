@@ -1,2 +1,5 @@
 # Simple-Python-Calculator
-Python Simple Activity 1
+My First Python Simple Activity. 
+Feel free to give comments. 
+I do appreciate to learn and improve more
+🚀🚀🚀
